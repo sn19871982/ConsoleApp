@@ -1,0 +1,11 @@
+D:\NitinPOC\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+D:\NitinPOC\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+D:\NitinPOC\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+D:\NitinPOC\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\NitinPOC\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\NitinPOC\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
